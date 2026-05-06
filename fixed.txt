@@ -1,0 +1,13 @@
+tart
+input student name 
+if score >= 60
+print pass 
+else print fail
+ end
+ start
+input student name ( Zodwa)
+'if score >= 60
+output "pass"
+else
+output "fail"
+end'
