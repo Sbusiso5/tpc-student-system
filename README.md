@@ -93,7 +93,7 @@ The pseudocode below is meant to determine whether a student has passed or faile
 ```
 START
 INPUT studentName
-INPUT
+input print
 IF score  
    OUTPUT "Student Name: " + studentName
    OUTPUT "Result: Pass"
@@ -103,6 +103,12 @@ ELSE
 START
 OUTPUT "Thank you for using the portal"
 END
+
+input student name
+output pass
+else fail
+end if
+end 
 ```
 
 ### Question 1 *(5 Marks)*
